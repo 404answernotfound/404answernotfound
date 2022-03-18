@@ -24,8 +24,7 @@
 
 <div align="center">
 
-# Looking for a place to study new things without getting bored?
-## [Look no further](https://404answernotfound.eu)  
+# Looking for a place to study new things without getting bored?<br/>[Look no further](https://404answernotfound.eu)  
 
 404answernotfound is a blog about digital innovation, tech and memes
 
