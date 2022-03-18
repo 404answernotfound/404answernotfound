@@ -14,9 +14,11 @@
 
 
 # 🐯 About Me
+
 <a href="https://404answernotfound.eu/about">
   <img width="240" align="right" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2Favatarlorenzopieri.png&w=256&q=75">
-</a>
+</a><br/>
+
 🇮🇹 Hello, this is Lorenzo<br/>
 🤖 I’m looking to collaborate on **Open Source Projects**<br/>
 👾 **My weapons of choice**: Javascript, Typescript, NodeJS, GraphQL, PostgresQL, Python<br/>
@@ -26,11 +28,6 @@
 💬 Ask me about web development, software architecture, system design<br/>
 🤗 Got a good idea for a project but don't know where to start? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**<br/>
 💪 Want to partecipate to my blog with a guest post? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**<br/>
-
-
-  
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div align="center">
 
