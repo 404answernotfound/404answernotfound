@@ -26,8 +26,7 @@
 💪 Want to partecipate to my blog with a guest post? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**<br/>
 
 <div align="center">
-  
-  
+  <br/><br/><br/><br/><br/>
 <a href="https://404answernotfound.eu/about">
   <img align="center" src="github.png">
 </a>  
