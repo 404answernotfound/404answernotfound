@@ -6,7 +6,8 @@
 
 <div align="center">
 <a href="https://404answernotfound.eu">
-  <img width="240" align="center" style="display: inline-block; border: 2px solid green; border-radius: 50%" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2F404answernotfounddarktheme.png&w=128&q=75">
+    <img align="center" src="github.png">
+
 </a>
   </div>
 
@@ -28,7 +29,7 @@
 <div align="center">
   <br/><br/><br/><br/><br/>
 <a href="https://404answernotfound.eu/about">
-  <img align="center" src="github.png">
+    <img width="240" align="center" style="display: inline-block; border: 2px solid green; border-radius: 50%" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2F404answernotfounddarktheme.png&w=128&q=75">
 </a>  
 
 # Looking for a place to study new things without getting bored?<br/>[Look no further](https://404answernotfound.eu)  
