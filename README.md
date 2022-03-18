@@ -21,6 +21,9 @@
 🤗 Got a good idea for a project but don't know where to start? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**<br/>
 💪 Want to partecipate to my blog with a guest post? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**<br/>
 
+
+<div align="center">
+
 # Looking for a place to study new things without getting bored? [Look no further](https://404answernotfound.eu)  
 
 404answernotfound is a blog about digital innovation, tech and memes
@@ -36,6 +39,8 @@
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=404answernotfound&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
   
+  
+</div>
 
 <details>
   <summary>🏆 GitHub Trophies</summary><br>  
