@@ -10,6 +10,11 @@
 </a>
   </div>
 
+
+<a href="https://404answernotfound.eu/about">
+  <img width="240" align="right" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2Favatarlorenzopieri.png&w=256&q=75">
+</a>
+
 # 🐯 About Me
 🇮🇹 Hello, this is Lorenzo<br/>
 🤖 I’m looking to collaborate on **Open Source Projects**<br/>
