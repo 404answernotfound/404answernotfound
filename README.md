@@ -33,16 +33,23 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=404answernotfound&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=404answernotfound&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=404answernotfound&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<details>
+  <summary>🏆 GitHub Trophies</summary><br>
+  ## 🏆 GitHub Trophies
+  <div>
+    <a href="https://404answernotfound.eu">
+      ![](https://github-profile-trophy.vercel.app/?username=404answernotfound&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+    </a>
+  </div>
+</details>
 
 <details>
-  <summary>##🏆 GitHub Acknowledgements</summary><br>
+  <summary>🏆 GitHub Acknowledgements</summary><br>
   ## 🏆 GitHub Acknowledgements
-<div>
-<a href="https://404answernotfound.eu">
-  <img src="https://metrics.lecoq.io/404answernotfound?template=classic&config.timezone=Europe%2FRome">
-</a>
+  <div>
+    <a href="https://404answernotfound.eu">
+      <img src="https://metrics.lecoq.io/404answernotfound?template=classic&config.timezone=Europe%2FRome">
+    </a>
   </div>
-  </details>
+</details>
 
