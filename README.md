@@ -29,12 +29,10 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzopieri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/404answnotfound) [![BuyMeACoffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/404answnotfound)
 
-
+![](https://github-readme-stats.vercel.app/api?username=404answernotfound&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 <details>
   <summary>💻 GitHub Stats</summary><br/>  
-  <br/>  
-  
-    ![](https://github-readme-stats.vercel.app/api?username=404answernotfound&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)  
+  <br/>   
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=404answernotfound&theme=midnight-purple&hide_border=true)  
   
