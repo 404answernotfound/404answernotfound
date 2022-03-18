@@ -26,6 +26,10 @@
 💬 Ask me about web development, software architecture, system design<br/>
 🤗 Got a good idea for a project but don't know where to start? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**<br/>
 💪 Want to partecipate to my blog with a guest post? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**<br/>
+
+
+  
+
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div align="center">
