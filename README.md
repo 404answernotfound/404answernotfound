@@ -31,7 +31,8 @@
 
 
 <details>
-  <summary>💻 GitHub Stats</summary><br>  
+  <summary>💻 GitHub Stats</summary><br/>  
+  <br/>  
   
     ![](https://github-readme-stats.vercel.app/api?username=404answernotfound&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)  
   
