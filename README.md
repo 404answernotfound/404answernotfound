@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://404answernotfound.eu">
-  <img width="240" align="center" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2F404answernotfounddarktheme.png&w=128&q=75">
+  <img width="240" align="center" style="display: inline-block; border: 2px solid green; border-radius: 50%" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2F404answernotfounddarktheme.png&w=128&q=75">
 </a>
   </div>
 
