@@ -36,11 +36,7 @@
 <details>
   <summary>🏆 GitHub Trophies</summary><br>
   ## 🏆 GitHub Trophies
-  <div>
-    <a href="https://404answernotfound.eu">
-      ![](https://github-profile-trophy.vercel.app/?username=404answernotfound&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-    </a>
-  </div>
+  ![](https://github-profile-trophy.vercel.app/?username=404answernotfound&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 </details>
 
 <details>
