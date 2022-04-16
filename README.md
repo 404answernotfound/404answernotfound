@@ -35,7 +35,9 @@
 
 # Looking for a place to study new things without getting bored?<br/>[Look no further](https://404answernotfound.eu)  
 
-404answernotfound is a blog about digital innovation, tech and memes
+404answernotfound is a blog about digital innovation, tech and memes  
+
+If you want to read all the articles I've written, you can check out [this repo](https://github.com/404answernotfound/404answernotfound-articles-github-list)
 
 
 ## 🌐Socials
