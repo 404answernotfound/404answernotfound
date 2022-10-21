@@ -17,7 +17,7 @@
 
 
 # Latest Projects<br/>
-- [A journey around Web Development made sustainable for the environment, https://envirotechnical.eu](https://envirotechnical.eu/)
+- A journey around Web Development made sustainable for the environment, [https://envirotechnical.eu](https://envirotechnical.eu/)
 - Flig, a `git` wrapper with strong opinions
 - Kryp (from the greek κρυπτός / kryptos, `to conceal`), a secrets manager
 
