@@ -21,6 +21,10 @@
 - Flig, a `git` wrapper with strong opinions
 - Kryp (from the greek κρυπτός / kryptos, `to conceal`), a secrets manager
 
+# Latest Talks<br/>
+- Greta is not happy with your website, and she is right - Codemotion 2022 Milan [Slides](https://envirotechnical.eu/)
+- Interplanetary guide to Open Source - Hacktoberfest @ Pisa.dev [Slides](https://404answernotfound.github.io/talks/interplanetary-guide-to-opensource-hacktoberfest-2022/slides/)
+- How to negotiate and talk about salary expectations without too much hassle - Lavoro Digitale Italia 
 
 # 🐯 About Me
 
