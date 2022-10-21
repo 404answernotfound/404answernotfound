@@ -1,4 +1,6 @@
 <div align="center">
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzopieri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/404answnotfound) [![BuyMeACoffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/404answnotfound)
   <h2>Long story short</h2>
 <h3>Digital Techy Nerd creating content for unexistent readers, finder of problems to known solutions</h3>
 </div>
@@ -19,11 +21,11 @@
 
 🇮🇹 Hello, this is Lorenzo<br/>
 🤖 I’m looking to collaborate on **Open Source Projects**<br/>
-👾 **My weapons of choice**: Javascript, Typescript, NodeJS, GraphQL, PostgresQL, Python<br/>
-📚 **What am I studying right now?** M365, Azure, SpaCy NLP<br/>
+👾 **My weapons of choice**: Javascript, Typescript, NodeJS, GraphQL, PostgresQL, Python, Bash<br/>
+📚 **What am I studying right now?** Rust, GCP<br/>
 📝 I regularly write articles on **[404answernotfound.eu](https://404answernotfound.eu)** and [hashnode](https://404answnotfound.hashnode.dev)<br/>
 🎙️ Hosting a Podcast on [Spotify - 404answernotfound](https://open.spotify.com/show/0d3hBsVITjcFRxPRqvNtCQ?si=5da24042e397411a)<br/>
-💬 Ask me about web development, software architecture, system design<br/>
+💬 Ask me about web development, software architecture, system design and **web dev sustainability**<br/>
 🤗 Got a good idea for a project but don't know where to start? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**<br/>
 💪 Want to partecipate to my blog with a guest post? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**<br/>
 
@@ -40,8 +42,6 @@
 If you want to read all the articles I've written, you can check out [this repo](https://github.com/404answernotfound/404answernotfound-articles-github-list)
 
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzopieri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/404answnotfound) [![BuyMeACoffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/404answnotfound)
 
 ![](https://github-readme-stats.vercel.app/api?username=404answernotfound&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 
