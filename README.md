@@ -1,6 +1,5 @@
 <div align="center">
 
-## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzopieri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/404answnotfound) [![BuyMeACoffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/404answnotfound)
 
 <h2>Long story short</h2>
@@ -17,6 +16,10 @@
   </div>
 
 
+# Latest Projects<br/>
+- [A journey around Web Development made sustainable for the environment, https://envirotechnical.eu](https://envirotechnical.eu/)
+- Flig, a `git` wrapper with strong opinions
+- Kryp (from the greek κρυπτός / kryptos, `to conceal`), a secrets manager
 
 
 # 🐯 About Me
@@ -54,19 +57,4 @@ If you want to read all the articles I've written, you can check out [this repo]
   
   
 </div>
-
-<details>
-  <summary>🏆 GitHub Trophies</summary><br>  
-  
-  ![](https://github-profile-trophy.vercel.app/?username=404answernotfound&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-</details>
-
-<details>
-  <summary>🏆 GitHub Acknowledgements</summary><br>
-  <div>
-    <a href="https://404answernotfound.eu">
-      <img src="https://metrics.lecoq.io/404answernotfound?template=classic&config.timezone=Europe%2FRome">
-    </a>
-  </div>
-</details>
 
