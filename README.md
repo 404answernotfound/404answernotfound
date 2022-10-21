@@ -1,6 +1,6 @@
-<div align="center">
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzopieri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/404answnotfound) [![BuyMeACoffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/404answnotfound)
+<div align="center">
   <h2>Long story short</h2>
 <h3>Digital Techy Nerd creating content for unexistent readers, finder of problems to known solutions</h3>
 </div>
