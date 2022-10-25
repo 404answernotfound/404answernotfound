@@ -4,7 +4,7 @@
 
 <h2>Long story short</h2>
 <h3>Digital Techy Nerd creating content for unexistent readers, finder of problems to known solutions</h3>
-    Are you a Notion fun? :) [Here's my public Notion profile](404answernotfound.notion.site)!
+    Are you a Notion fun? :) <a href="404answernotfound.notion.site">Here's my public Notion profile</a>!
 </div>
 
 
