@@ -27,7 +27,9 @@
 - A journey around Web Development made sustainable for the environment, [https://envirotechnical.eu](https://envirotechnical.eu/)
 - Flig, a `git` wrapper with strong opinions
 - Kryp (from the greek κρυπτός / kryptos, `to conceal`), a secrets manager
-
+# Latest Open Source<br/>
+- Maintainer @ [Open Source Wrapped, a spotify cameo](https://github.com/Schrodinger-Hat/open-source-wrapped)
+- Maintainer @ [osday.dev](https://github.com/Schrodinger-Hat/osday-2023)
 # Latest Talks<br/>
 - Greta is not happy with your website, and she is right - Codemotion 2022 Milan [Slides](https://envirotechnical.eu/)
 - Interplanetary guide to Open Source - Hacktoberfest @ Pisa.dev [Slides](https://404answernotfound.github.io/talks/interplanetary-guide-to-opensource-hacktoberfest-2022/slides/)
