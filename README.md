@@ -20,9 +20,7 @@
 
 
 # Currently reading<br/>
-- Wohpe, Salvatore Sanfilippo [link to Amzn](https://www.amazon.it/Wohpe-Salvatore-Sanfilippo/dp/B09XT6J3WX)
-- Building a Second Brain, Thiago Forte [link to Amzn](https://www.amazon.com/Building-Second-Brain-Organize-Potential/dp/1982167386)
-- The Programmer's Brain, Felienne Hermans [link to Amzn](https://www.amazon.com/Programmers-Brain-every-programmer-cognition/dp/1617298670)
+- Distributed systems with Node.js
 # Latest Projects<br/>
 - A journey around Web Development made sustainable for the environment, [https://envirotechnical.eu](https://envirotechnical.eu/)
 - Flig, a `git` wrapper with strong opinions
