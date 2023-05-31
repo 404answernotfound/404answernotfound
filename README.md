@@ -56,16 +56,6 @@
 404answernotfound is a blog about digital innovation, tech and memes  
 
 If you want to read all the articles I've written, you can check out [this repo](https://github.com/404answernotfound/404answernotfound-articles-github-list)
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=404answernotfound&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
-
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=404answernotfound&theme=midnight-purple&hide_border=true)  
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=404answernotfound&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
-  
   
 </div>
 
