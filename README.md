@@ -22,6 +22,7 @@
 # Currently reading<br/>
 - Distributed systems with Node.js
 # Latest Projects<br/>
+- [Loremclipsum](https://github.com/Schrodinger-Hat/loremclipsum), a CLI tool to copy-paste different Ipsums
 - A journey around Web Development made sustainable for the environment, [https://envirotechnical.eu](https://envirotechnical.eu/)
 - Flig, a `git` wrapper with strong opinions
 - Kryp (from the greek κρυπτός / kryptos, `to conceal`), a secrets manager
