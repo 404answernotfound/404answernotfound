@@ -2,14 +2,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzopieri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/404answnotfound) [![BuyMeACoffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/404answnotfound)
 
-<h2>Long story short</h2>
-<h3>Your friendly Software Engineer, creating content for unexistent readers, finder of problems to known solutions</h3>
-    Are you a Notion fan? :) <a href="https://404answernotfound.notion.site">Here's my public Notion profile</a>!
-    <br/><br/>
-    <h3>I'm also part of a community of amazing individuals with a mission to enable people to Open Source. Join us @ Schrodinger's Hat! https://www.schrodinger-hat.it/</h3>
-    <h3>I used to do Public Speaking at conferences, meet-ups and events. Now I'm having more fun organising these events. Nevertheless, if you fancy one of my talks, send me a message!</h3>
 </div>
 
+<h2>Long story short</h2>
+<h3>Your friendly Software Engineer, creating content for unexistent readers, finder of problems to known solutions</h3>
+Are you a Notion fan? :) <a href="https://404answernotfound.notion.site">Here's my public Notion profile</a>!
+<br/><br/>
+<h3>I'm also part of a community of amazing individuals with a mission to enable people to Open Source. Join us @ Schrodinger's Hat! https://www.schrodinger-hat.it/</h3>
+<h3>I used to do Public Speaking at conferences, meet-ups and events. Now I'm having more fun organising these events. Nevertheless, if you fancy one of my talks, send me a message!</h3>
 
 # Currently reading<br/>
 - Distributed systems with Node.js
