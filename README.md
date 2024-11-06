@@ -10,15 +10,6 @@
 </div>
 
 
-<div align="center">
-<a href="https://404answernotfound.eu">
-    <img align="center" src="github.png">
-
-</a>
-  <br/><br/><br/>
-  </div>
-
-
 # Currently reading<br/>
 - Distributed systems with Node.js
 # Latest Projects<br/>
