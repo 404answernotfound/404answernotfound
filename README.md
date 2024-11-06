@@ -9,9 +9,6 @@
 Are you a Notion fan? :) <a href="https://404answernotfound.notion.site">Here's my public Notion profile</a>!
 <br/><br/>
 <h3>I'm also part of a community of amazing individuals with a mission to enable people to Open Source. Join us @ Schrodinger's Hat! https://www.schrodinger-hat.it/</h3>
-
-<br/><br/>
-
 I used to do Public Speaking at conferences, meet-ups and events. Now I'm having more fun organising these events. Nevertheless, if you fancy one of my talks, send me a message!
 
 # Currently reading<br/>
