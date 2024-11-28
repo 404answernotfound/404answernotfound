@@ -12,16 +12,10 @@ I'm part of the [Schrödinger's Hat](https://www.schrodinger-hat.it/) community�
 # 🐯 About Me
 🇮🇹 **Lorenzo** - Software Engineer, Open Source Enthusiast  
 🤖 Collaborating on Open Source Projects  
-👾 **Tech Stack**: JavaScript, TypeScript, Node.js, GraphQL, PostgreSQL, Python, Bash  
-📚 **Currently Learning**: Rust, GCP  
+👾 **Tech Stack**: JavaScript and TypeScript, Node.js, Go, PostgreSQL, React and React Native 
+📚 **Currently Learning**: More on Distributed Systems
 📝 Writing on [404answernotfound.eu](https://404answernotfound.eu) and [Hashnode](https://404answnotfound.hashnode.dev)  
 🎙️ Podcast: [404answernotfound](https://open.spotify.com/show/0d3hBsVITjcFRxPRqvNtCQ?si=5da24042e397411a)  
-
-# 💬 Let’s Chat About:
-- Web development, system design, software architecture
-- **Web dev sustainability**  
-- Got a project idea? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**  
-- Want to guest post? **[Open a discussion](https://github.com/404answernotfound/community/discussions)**
 
 <div align="center">
   <br/><br/>
