@@ -5,7 +5,7 @@
 </div>
 
 <h2>Hey there!</h2>
-<h3>Your friendly Software Engineer, content creator, and problem solver. <br /> 📍 [Notion](https://404answernotfound.notion.site)?</h3>
+<h3>Your friendly Software Engineer, content creator, and problem solver. <br /> 📍 Notion fan? https://404answernotfound.notion.site </h3>
 
 I'm part of the [Schrödinger's Hat](https://www.schrodinger-hat.it/) community—a group of amazing individuals enabling Open Source. I also organize events now and then, but if you ever want a talk, just reach out!
 
