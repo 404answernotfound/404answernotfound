@@ -28,9 +28,5 @@ I'm part of the [Schr√∂dinger's Hat](https://www.schrodinger-hat.it/) community‚
   <a href="https://404answernotfound.eu/about">
     <img width="240" align="center" style="display: inline-block; border: 2px solid green; border-radius: 50%" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2F404answernotfounddarktheme.png&w=128&q=75">
   </a>
-  <h4>Looking to study new things without getting bored? [Look no further](https://404answernotfound.eu)</h4>
+  <h4>[Look no further](https://404answernotfound.eu)</h4>
 </div>
-
----
-
-If you want to read my articles, check out [this repo](https://github.com/404answernotfound/404answernotfound-articles-github-list)
