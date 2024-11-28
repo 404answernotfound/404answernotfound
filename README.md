@@ -9,25 +9,6 @@
 
 I'm part of the [Schrödinger's Hat](https://www.schrodinger-hat.it/) community—a group of amazing individuals enabling Open Source. I also organize events now and then, but if you ever want a talk, just reach out!
 
-# 📚 Currently reading
-- Distributed Systems
-
-# 💻 Latest Projects
-- [Loremclipsum](https://github.com/Schrodinger-Hat/loremclipsum): CLI tool for various Ipsums
-- [cattp](https://github.com/Schrodinger-Hat/cattp): CLI tool for meowing HTTP codes
-- [EnviroTechnical](https://envirotechnical.eu/): Sustainable Web Development journey
-- Flig: A `git` wrapper with strong opinions
-- Kryp: A secrets manager inspired by Greek (κρυπτός / kryptos)
-
-# 🌱 Latest Open Source
-- Maintainer @ [Open Source Wrapped](https://github.com/Schrodinger-Hat/open-source-wrapped)
-- Maintainer @ [osday.dev](https://github.com/Schrodinger-Hat/osday-2023)
-
-# 🎤 Latest Talks
-- *Greta is not happy with your website, and she is right* - [Codemotion 2022 Milan](https://envirotechnical.eu/) 
-- *Interplanetary guide to Open Source* - [Hacktoberfest @ Pisa.dev](https://404answernotfound.github.io/talks/interplanetary-guide-to-opensource-hacktoberfest-2022/slides/)
-- *How to negotiate salary expectations* - [Lavoro Digitale Italia](#)
-
 # 🐯 About Me
 🇮🇹 **Lorenzo** - Software Engineer, Open Source Enthusiast  
 🤖 Collaborating on Open Source Projects  
