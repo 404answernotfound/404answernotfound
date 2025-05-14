@@ -14,7 +14,7 @@
 I'm part of the board of [Schrödinger's Hat](https://www.schrodinger-hat.it/) no profit organisation — a group of amazing individuals enabling Open Source. I also organize events now and then, but if you ever want a talk, just reach out!
 
 # 🐯 About Me
-🇮🇹 **Lorenzo** - Software Engineer, Open Source Enthusiast  
+🇮🇹 **Lorenzo** - Engineering Manager, Software Engineer, Open Source Enthusiast  
 🤖 Collaborating on Open Source Projects  
 👾 **Tech Stack**: JavaScript and TypeScript, Node.js, Go, PostgreSQL, React and React Native  
 📚 **Currently Learning**: More on Distributed Systems  
