@@ -5,7 +5,7 @@
 </div>
 
 <h2>Hey there!</h2>
-<h3>Your friendly Software Engineer, content creator, and problem solver.📍 Notion fan? <a href="https://404answernotfound.notion.site/Welcome-to-my-public-Notion-901c7aad18fd4b09bcc672c8d775b40b">Here's my Notion public page</a></h3>
+<h3>Your friendly Software Engineer, content creator, and problem solver. <br/> 📍 Notion fan? <a href="https://404answernotfound.notion.site/Welcome-to-my-public-Notion-901c7aad18fd4b09bcc672c8d775b40b">Here's my Notion public page</a></h3>
 
 I'm part of the [Schrödinger's Hat](https://www.schrodinger-hat.it/) community—a group of amazing individuals enabling Open Source. I also organize events now and then, but if you ever want a talk, just reach out!
 
